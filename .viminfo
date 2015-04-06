@@ -26,18 +26,20 @@
 	s
 
 # ファイルマーク:
-'0  3  0  ~/Gateway.php
-'1  1  0  ~/UserTest.php
-'2  14  13  ~/UserTest.php
-'3  9  27  ~/Controllertest.php
-'4  26  37  ~/index.tpl
-'5  1  39  ~/part.tpl
-'6  1  1  ~/index.tpl
-'7  14  1  ~/DataFormattest.php
-'8  1  3  ~/Modeltest.php
-'9  18  7  ~/Modeltest.php
+'0  29  13  ~/UserMultiTest.php
+'1  3  0  ~/Gateway.php
+'2  1  0  ~/UserTest.php
+'3  14  13  ~/UserTest.php
+'4  9  27  ~/Controllertest.php
+'5  26  37  ~/index.tpl
+'6  1  39  ~/part.tpl
+'7  1  1  ~/index.tpl
+'8  14  1  ~/DataFormattest.php
+'9  1  3  ~/Modeltest.php
 
 # ジャンプリスト (新しいものが先):
+-'  29  13  ~/UserMultiTest.php
+-'  1  0  ~/UserMultiTest.php
 -'  3  0  ~/Gateway.php
 -'  1  0  ~/Gateway.php
 -'  1  0  ~/UserTest.php
@@ -134,11 +136,40 @@
 -'  1  224  ~/.ssh/authorized_keys
 -'  1  224  ~/.ssh/authorized_keys
 -'  1  0  ~/test
--'  1  224  ~/.ssh/authorized_keys
--'  1  224  ~/.ssh/authorized_keys
--'  1  0  ~/test
 
 # ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/UserMultiTest.php
+	"	29	13
+	^	29	14
+	.	29	18
+	+	4	0
+	+	2	56
+	+	4	46
+	+	6	49
+	+	17	15
+	+	14	25
+	+	15	22
+	+	16	19
+	+	30	15
+	+	20	42
+	+	21	104
+	+	21	15
+	+	30	0
+	+	20	2
+	+	21	7
+	+	22	33
+	+	30	0
+	+	22	32
+	+	23	184
+	+	24	32
+	+	25	149
+	+	29	0
+	+	28	0
+	+	27	0
+	+	26	13
+	+	27	18
+	+	29	18
 
 > ~/Gateway.php
 	"	3	0

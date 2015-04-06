@@ -299,3 +299,51 @@ git add feature/20150406-learning-hayashi
 vi Modeltest.php
 ls
 exit
+ls
+vi Modeltest.php
+vi DataFormattest.php
+ls
+git static
+vi index.tpl
+vi part.tpl
+vi index.tpl
+ls
+vi Controllertest.php
+vi UserTest.php
+ls
+git status
+vi UserTest.php
+git add Modeltest.php
+git status
+git commit
+git status
+vi Gateway.php
+git add *.php
+git status
+git add .
+git status
+git commit
+git status
+git branch
+git branch -d feature/20150406-learning-hayahshi
+git branch
+git branch -d feature/20150406-learning-hayahsi
+git branch
+git remote
+git remote -v
+git remote --v
+git status
+git branch
+git push
+
+remote
+git remote
+git push
+git push test_origin
+remote
+git remote
+git push --set-upstream test_origin feature/20150406-learning-hayashi
+remote
+
+vi UserMultiTest.php
+exit
